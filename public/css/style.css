@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+	padding-top: 100px;
+	/*background-color: #7c9c24;*/
+	/*background: linear-gradient( #ddffbc,  #acde23);*/ 
+	background: linear-gradient( #ddffbc,  #91c788 ); 
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+nav{
+	background-color:#feffde;
+
+}
+.detail{
+	text-align: justify;
+	color: #52734d;
+
+	/*color: #52734d;*/
+}
+.title{
+	font-family: 'Righteous', cursive;
+}
+.modal-content{
+	background: linear-gradient( #feffde, #91c788); 
+}
+
+/*.title{
+	color: #52734d;
+	}*/
+/*#map { position: absolute; top: 0; bottom: 0; width: 100%; }*/
